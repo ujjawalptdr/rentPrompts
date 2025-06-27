@@ -48,7 +48,7 @@ export default function LiveNotifications() {
             }, 5000)
         }
 
-        const interval = setInterval(showNotification, 8000) // after 8 sec the another call is made.
+        const interval = setInterval(showNotification, 1000 * 30) // after 8 sec the another call is made.
         // setTimeout(showNotification, 5000) // First notification will dissapear in next 3 seconds.
 
         return () => clearInterval(interval)

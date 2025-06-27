@@ -18,19 +18,19 @@ A modern RentPrompts Academy landing page built with React.js and Tailwind CSS.
 
 ## 🏗 Project Structure
 
+<pre>
 \`\`\`
 src/
 ├── components/
-│ ├── Navbar.jsx
-│ ├── HeroSection.jsx
-│ ├── StarsBg.jsx # Animated stars background
-│ ├── ProblemTransformation.jsx
-│ |── Courses.jsx
-│ |── Testimonials.jsx
-│ |── LiveNotification.jsx # Live Notifications
-│ └── faqs.jsx
-|
+│      ├── Navbar.jsx
+│      ├── HeroSection.jsx
+│      ├── StarsBg.jsx # Animated stars background
+│      ├── ProblemTransformation.jsx
+│      |── Courses.jsx
+│      |── Testimonials.jsx
+│      |── LiveNotification.jsx # Live Notifications
+│      └── faqs.jsx
 ├── App.jsx
 ├── main.jsx
 └── index.css
-\`\`\`
+\`\`\`</pre>

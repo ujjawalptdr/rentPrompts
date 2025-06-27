@@ -18,7 +18,7 @@ function App() {
       <Courses />
       <Testimonials />
       <FAQs />
-      {/* <LiveNotifications /> */}
+      <LiveNotifications />
     </div>
   )
 }
